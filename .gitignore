@@ -1,0 +1,15 @@
+.project
+.settings
+build
+*.class
+*.pyc
+*.pyo
+.svn
+_svn
+.project
+node_modules/
+*.swp
+npm-debug.log
+*.db
+temp/
+*.orig
